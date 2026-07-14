@@ -2,6 +2,8 @@
   {
     "nom": "Vynora Store",
     "version": "0.0.2.0",
+    "latest_date": "14/07/2026",
+    "developper": "Vynora",
     "package": "appinventor.ai_lajoux_taho1107.Vynora_Store",
     "changelog": "Nous avons ajouté la page des applications.",
     "description_short": "L'application officielle pour télécharger les apps de Vynora",
@@ -12,6 +14,8 @@
   {
     "nom": "Infinite Notifications",
     "version": "0.5.5.0",
+    "latest_date": "14/07/2026",
+    "developper": "Vynora",
     "package": "appinventor.ai_lajoux_taho1107.Infinite_Notifications",
     "changelog": "Nous avons ajouté la page des paramètres",
     "description_short": "Envoie des notifications à l'infini",
