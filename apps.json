@@ -11,7 +11,7 @@
   },
   {
     "nom": "Infinite Notifications",
-    "version": "0.5.0.0",
+    "version": "0.5.5.0",
     "package": "appinventor.ai_lajoux_taho1107.Infinite_Notifications",
     "changelog": "Nous avons ajouté la page des paramètres",
     "description_short": "Envoie des notifications à l'infini",
