@@ -2,6 +2,7 @@
   {
     "nom": "Vynora Store",
     "version": "0.0.2.0",
+    "package": "appinventor.ai_lajoux_taho1107.Vynora_Store",
     "changelog": "Nous avons ajouté la page des applications.",
     "description_short": "L'application officielle pour télécharger les apps de Vynora",
     "description": "Voici le Vynora App Store pour téléphone portable. Ici retrouvez toutes les applications mobiles faites par Vynora.",
@@ -11,6 +12,7 @@
   {
     "nom": "Infinite Notifications",
     "version": "0.5.0.0",
+    "package": "appinventor.ai_lajoux_taho1107.Infinite_Notifications",
     "changelog": "Nous avons ajouté la page des paramètres",
     "description_short": "Envoie des notifications à l'infini",
     "description": "Avec l'application Infinite Notifications envoyez des notifications à l'infini sur votre téléphone vous pouvez aussi paramétrer le titre et le contenu des notifications.",
