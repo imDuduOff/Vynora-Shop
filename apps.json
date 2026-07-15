@@ -1,11 +1,11 @@
 [
   {
     "nom": "Vynora Store",
-    "version": "0.0.3.0",
+    "version": "0.0.3.1",
     "latest_date": "16/07/2026",
     "developper": "Vynora",
     "package": "appinventor.ai_lajoux_taho1107.Vynora_Store",
-    "changelog": "Nous avons corrigé le bouton pour installer des application",
+    "changelog": "Correction de bugs mineurs",
     "description_short": "L'application officielle pour télécharger les apps de Vynora",
     "description": "Voici le Vynora App Store pour téléphone portable. Ici retrouvez toutes les applications mobiles faites par Vynora.",
     "icon": "https://raw.githubusercontent.com/imDuduOff/Vynora-Shop/main/Apps/Vynora-Store/Vynora-Store-Logo%202000x2000_20260713_234708_0000.png",
