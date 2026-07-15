@@ -2,7 +2,7 @@
   {
     "nom": "Vynora Store",
     "version": "0.0.2.5",
-    "latest_date": "14/07/2026",
+    "latest_date": "15/07/2026",
     "developper": "Vynora",
     "package": "appinventor.ai_lajoux_taho1107.Vynora_Store",
     "changelog": "Nous avons ajouté la page des applications.",
@@ -22,5 +22,17 @@
     "description": "Avec l'application Infinite Notifications envoyez des notifications à l'infini sur votre téléphone vous pouvez aussi paramétrer le titre et le contenu des notifications.",
     "icon": "https://raw.githubusercontent.com/imDuduOff/Vynora-Shop/main/Apps/Infinite-Notifications/Infinite-Notifications-Logo%202000x2000_20260714_140105_0000.png",
     "apk": "https://raw.githubusercontent.com/imDuduOff/Vynora-Shop/main/Apps/Infinite-Notifications/Infinite-Notifications-Latest.apk"
+  },
+  {
+    "nom": "Vynora Vault",
+    "version": "0.5.5.0",
+    "latest_date": "15/07/2026",
+    "developper": "Vynora",
+    "package": "appinventor.ai_lajoux_taho1107.Vynora_Vault",
+    "changelog": "Nous avons modifié les extensions importées",
+    "description_short": "L'application pour vos documents privés",
+    "description": "Avec Vynora Vault créez et chiffrez du texte privé que personne n'est censé voir. C'est très simple avec Vynora Vault. Vous pouvez mettre un mot de passe par document",
+    "icon": "https://raw.githubusercontent.com/imDuduOff/Vynora-Shop/main/Apps/Vynora-Vault/play_store_512.png",
+    "apk": "https://raw.githubusercontent.com/imDuduOff/Vynora-Shop/main/Apps/Vynora-Vault/Vynora-Vault-Latest.apk"
   }
 ]
