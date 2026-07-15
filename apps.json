@@ -25,11 +25,11 @@
   },
   {
     "nom": "Vynora Vault",
-    "version": "0.7.0.0",
+    "version": "0.7.1.0",
     "latest_date": "16/07/2026",
     "developper": "Vynora",
     "package": "appinventor.ai_lajoux_taho1107.Vynora_Vault",
-    "changelog": "Nous avons ajouté la possibilité de supprimer un document",
+    "changelog": "Correction de bugs majeurs",
     "description_short": "L'application pour vos documents privés",
     "description": "Avec Vynora Vault créez et chiffrez du texte privé que personne n'est censé voir. C'est très simple avec Vynora Vault. Vous pouvez mettre un mot de passe par document",
     "icon": "https://raw.githubusercontent.com/imDuduOff/Vynora-Shop/main/Apps/Vynora-Vault/play_store_512.png",
